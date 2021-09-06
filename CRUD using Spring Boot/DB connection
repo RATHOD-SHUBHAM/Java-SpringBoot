@@ -1,0 +1,13 @@
+// open terminal and type this.
+~ psql
+
+
+CREATE DATABASES student;
+
+# \du
+
+# GRANT ALL PRIVILEGES ON DATABASE "student" TO postgres;
+
+# SELECT * FROM STUDENT;
+
+#\d // will describe the data base
