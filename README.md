@@ -15,5 +15,5 @@ Spring Boot makes it easy to create stand-alone, production-grade Spring based A
     Absolutely no code generation and no requirement for XML configuration
 
 ### Project:
-    1. CRUD Application. [Project](https://github.com/RATHOD-SHUBHAM/Java-SpringBoot/tree/master/CRUD%20using%20Spring%20Boot)
+   1. CRUD Application. [Project](https://github.com/RATHOD-SHUBHAM/Java-SpringBoot/tree/master/CRUD%20using%20Spring%20Boot)
 
